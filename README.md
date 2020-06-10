@@ -25,4 +25,5 @@ A reusable hamburger menu which lists down all the links to pages on your websit
   </div>
   </div>
   ```
+  4. For this particular page, in the menu.css file, --primary-color, --secondary-color and --overlay-color variables have        been used. You can customise this menu by replacing these variables with the colours of your choice.  
   
