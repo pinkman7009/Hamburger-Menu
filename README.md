@@ -5,7 +5,7 @@ A reusable hamburger menu which lists down all the links to pages on your websit
 
 1. Link the menu.css file to your html document.
 2. Add the menu.css file to your project.
-3. Add the following HTML boilerplate to be able to use the classes 
+3. Add the following HTML boilerplate in the body to be able to use the classes 
 
   ```
   <div class="menu-wrap">
